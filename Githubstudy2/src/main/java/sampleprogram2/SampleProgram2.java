@@ -6,7 +6,7 @@ public class SampleProgram2 {
 	
 	
 	{
-System.out.println("My Study");
+System.out.println("My Study print");
 
 	}
 
