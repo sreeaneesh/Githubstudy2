@@ -10,6 +10,8 @@ System.out.println("My Study print");
 
 System.out.println("Welcome");
 
+System.out.println("Hellow");
+
 	}
 
 }
