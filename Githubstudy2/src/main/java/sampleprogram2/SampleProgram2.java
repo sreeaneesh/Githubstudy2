@@ -8,6 +8,8 @@ public class SampleProgram2 {
 	{
 System.out.println("My Study print");
 
+System.out.println("Welcome");
+
 	}
 
 }
